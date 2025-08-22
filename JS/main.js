@@ -28,5 +28,5 @@ function cargarProductos() {
     }
    
 
-cargarPaquetes();
+cargarProductos();
 
