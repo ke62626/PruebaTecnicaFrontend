@@ -2,4 +2,6 @@
 
 Prueba Técnica FrontEnd
 
-Favor de leer los pasos a seguir en el archivo Instrucciones.md
+CH57
+22 AGOSTO 2025
+KENIA JUAREZ NAVARRETE
